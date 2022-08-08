@@ -31,3 +31,23 @@ def find_smallest_interval(numbers):
                 pass
         return(sorted(differences)[0])
 ```
+
+
+![image](https://user-images.githubusercontent.com/110176257/183448472-c696e67b-4eff-46ae-84c7-24969d5ca2bc.png)
+
+#### time taken: less than 6 minutes:
+
+```
+def oddevencounter(number):
+    lst = [0,0]
+    for i in range(number+1):
+        if i % 2 == 0:
+            lst[0] += i
+        else:
+            lst[1] += i
+    return lst
+print(oddevencounter(5))
+```
+
+
+
