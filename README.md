@@ -51,3 +51,4 @@ print(oddevencounter(5))
 
 1700 update: On call explaining exam questions and codewars with fatima
 
+1800 update: on call with fetima helping with codewars
